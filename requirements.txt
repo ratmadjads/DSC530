@@ -1,0 +1,7 @@
+thinkstats2.py
+scipy
+statsmodels
+pandas
+seaborn
+sklearn
+thinkplot.py
